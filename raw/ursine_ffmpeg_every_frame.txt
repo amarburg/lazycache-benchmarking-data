@@ -1,0 +1,7 @@
+frame=25163 fps=2.1 q=-0.0 Lsize=N/A time=00:13:59.60 bitrate=N/A speed=0.0713x
+video:268566997kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+
+real    196m19.656s
+user    221m24.564s
+sys     7m54.584s
+

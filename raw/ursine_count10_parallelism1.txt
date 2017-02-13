@@ -1,0 +1,25 @@
+&{<nil>  true map[count:0xc8200ae8c0 parallelism:0xc8200ae960] map[host:0xc8200ae780 path:0xc8200ae820 count:0xc8200ae8c0 parallelism:0xc8200ae960] map[] [] -1 false 1 <nil> true <nil>}
+&{10 1}
+Download worker Querying URL https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T030000Z.mov
+Download worker Querying URL https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T210000Z.mov
+Download worker Querying URL https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T030000Z.mov
+Download worker Querying URL https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T120000Z.mov
+Download worker Querying URL https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T180000Z.mov
+Download worker Querying URL https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T030000Z.mov
+Download worker Querying URL https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T150000Z.mov
+Download worker Querying URL https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T060000Z.mov
+Download worker Querying URL https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T000000Z.mov
+Download worker Querying URL https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T090000Z.mov
+Waiting for workers to finish...
+Channel closed, quitting
+Pulling results
+{"Url":"https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T030000Z.mov","ContentLength":14019562881,"ElapsedTime":1275.730308897}
+{"Url":"https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T210000Z.mov","ContentLength":14163838881,"ElapsedTime":1318.859285945}
+{"Url":"https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T030000Z.mov","ContentLength":14019562881,"ElapsedTime":1299.994995765}
+{"Url":"https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T120000Z.mov","ContentLength":14056116129,"ElapsedTime":1422.612796746}
+{"Url":"https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T180000Z.mov","ContentLength":14077068493,"ElapsedTime":2394.625085488}
+{"Url":"https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T030000Z.mov","ContentLength":14019562881,"ElapsedTime":1280.558952544}
+{"Url":"https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T150000Z.mov","ContentLength":14036974977,"ElapsedTime":1654.083028554}
+{"Url":"https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T060000Z.mov","ContentLength":14043560801,"ElapsedTime":1278.089773193}
+{"Url":"https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T000000Z.mov","ContentLength":14020434981,"ElapsedTime":2027.044309369}
+{"Url":"https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/2016/07/01/CAMHDA301-20160701T090000Z.mov","ContentLength":14058028781,"ElapsedTime":2230.937611374}
